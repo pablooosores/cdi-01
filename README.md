@@ -5,4 +5,4 @@
   
   Materia: Control de Interfaces
 
-  Colaboradores: Franco Lesem, Tiziano Patella, Facundo Ledesma.
+  Colaboradores: Franco Leseme, Tiziano Patella, Facundo Ledesma.
